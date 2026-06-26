@@ -1,7 +1,9 @@
 AI Project (2025-1)
+
 딥러닝 프로젝트
 
 "BERT와 Chronos-Bolt를 활용한 통화정책 신뢰도 정량화 이중 파이프라인 연구"
+
 수행 역할 : 데이터 수집, BERT 텍스트 분류 모델 학습, BOK-CI 산출 로직 구현 등
 
 <h2>Purpose</h2>
